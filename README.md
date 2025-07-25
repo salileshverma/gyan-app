@@ -26,7 +26,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/karankulshrestha/gyaansaarthi
+  git clone https://github.com/salileshverma/gyan-app
 ```
 
 Go to the project directory
@@ -46,9 +46,7 @@ Start the app in Real device
 ```bash
   flutter run
 ```
-
-## 🔗 Backend API Repo
-[Backend FastAPI Repository](https://github.com/karankulshrestha/gyaan-api)
+USE API
 
 
 ## Screenshots
