@@ -1,5 +1,5 @@
 ## 🔗 Demo Link
-[Video Demo Link](https://youtu.be/rJV7Ce2m9xU)
+[Video Demo Link](https://youtu.be/QnPf1y3Nul0?si=37ZMcdzomnybR6xv)
 
 # Gyaan Saarthi App 🤠
 
